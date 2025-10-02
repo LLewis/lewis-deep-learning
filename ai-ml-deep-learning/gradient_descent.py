@@ -6,10 +6,14 @@ from IPython import display
 display.display_svg()
 
 
+"""
+Professor Lewis
 
 #Grradient Descent 1D
 #find the minimum of a function:  f(x) = 3x**2 - 3x + 4
 #Emperically identify the local min of function
+"""
+
 
 #function (as a function)
 def fx(x):

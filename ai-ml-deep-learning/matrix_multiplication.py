@@ -1,6 +1,11 @@
 import numpy as np
 import torch
 
+"""
+Professor Lewis
+Matrix multiplication 
+"""
+
 #USING NUMPY
 #create som random matrices with varios sizes
 A = np.random.randn(3,4)

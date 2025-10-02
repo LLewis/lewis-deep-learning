@@ -1,6 +1,11 @@
 import numpy as np
 import torch
 
+"""
+Professor Lewis
+Vectors and calculating the dot product 
+"""
+
 #Python --version 3.12
 #python -m pip install --upgrade "numpy<2"`
 #installed pytorch - brew install pytorch
